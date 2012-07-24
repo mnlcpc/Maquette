@@ -1,7 +1,9 @@
 # Maquette #
 ## Photoshop Interactive Prototypes Generator Script ##
 
-##### For better (and visual) instructions on how to use this script look for the HOWTO folder. #####
+##### [Maquette Project Page](http://projects.allrightdesign.com/maquette "go to the official Maquette Project Page") #####
+##### For better (and visual) instructions on how to use this script look for the HOWTO folder included. #####
+
  
 ### DESCRIPTION ###
 AD Maquette is a Photoshop script that generates
